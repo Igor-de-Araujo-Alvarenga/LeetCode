@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace TestSolutions
 {
-    public class AddTwoNumbers
+    public class AddTwoNumbersTests
     {
 
         [Fact]

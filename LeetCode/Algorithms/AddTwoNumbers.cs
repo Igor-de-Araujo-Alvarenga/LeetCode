@@ -19,6 +19,9 @@ namespace LeetCode.Algorithms
 
     public static class AddTwoNumbers
     {
+        /// <summary>
+        /// The technique used here is iteration
+        /// </summary>
         public static ListNode Execute(ListNode l1, ListNode l2)
         {
             return Calculation(l1,l2);

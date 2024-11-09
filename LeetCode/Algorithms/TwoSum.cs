@@ -7,6 +7,9 @@ namespace LeetCode
 {
     public static class TwoSum
     {
+        ///<summary>
+        /// Tecnique used here is to reduce time complexity compared to a brute force solution using a dictionary
+        ///</summary>
         public static int[] Execute(int[] nums, int target)
         {
             Dictionary<int, int> numDict = new Dictionary<int, int>();

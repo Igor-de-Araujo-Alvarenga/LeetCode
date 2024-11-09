@@ -9,7 +9,7 @@ namespace LeetCode.Algorithms
     public static class MedianOfTwoSortedArrays
     {
         /// <summary>
-        /// Tecnique used here is Binary Search: The binary search is performed on the smaller array, so the time complexity is 𝑂 (log min⁡(𝑚,𝑛))
+        /// Tecnique used here is Binary Search: The binary search is performed on the smaller array, so the time complexity is 
         /// O(logmin(m, n)), where m and n are the lengths of the two arrays.
         /// </summary>
         public static double Execute(int[] nums1, int[] nums2)

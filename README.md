@@ -4,5 +4,5 @@
 | AddTwoNumbers                    | [AddTwoNumbers](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/LeetCode/Algorithms/AddTwoNumbers.cs) | [Test](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/TestSolutions/AddTwoNumbersTests.cs)
 | LongestSubstringWithoutRepeatingCharacters                    | [LongestSubstringWithoutRepeatingCharacters](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/LeetCode/Algorithms/LongestSubstringWithoutRepeatingCharacters.cs) | [Test](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/TestSolutions/LongestSubstringWithoutRepeatingCharactersTest.cs)
 | MedianOfTwoSortedArrays                    | [MedianOfTwoSortedArrays](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/LeetCode/Algorithms/MedianOfTwoSortedArrays.cs) | [Test](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/TestSolutions/MedianOfTwoSortedArraysTests.cs)
-
+| LongestPalindromicSubstring                    | [LongestPalindromicSubstring](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/LeetCode/Algorithms/LongestPalindromicSubstring.cs) | [Test](https://github.com/Igor-de-Araujo-Alvarenga/LeetCode/blob/master/TestSolutions/LongestPalindromicSubstringTests.cs)
 

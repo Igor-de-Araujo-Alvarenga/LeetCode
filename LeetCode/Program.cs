@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var test = LongestSubstringWithoutRepeatingCharacters.Execute("pwwkew");
+            var test = MedianOfTwoSortedArrays.Execute(new int[] { 1,2}, new int[] {3});
         }
     }
 }

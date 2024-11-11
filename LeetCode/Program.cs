@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var test = LongestPalindromicSubstring.Execute("ac");
+            var test = ZigZagConversion.Execute("PAYPALISHIRING", 3);
         }
     }
 }

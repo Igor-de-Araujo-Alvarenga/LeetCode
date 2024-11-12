@@ -6,7 +6,8 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var test = ZigZagConversion.Execute("PAYPALISHIRING", 3);
+            var test = ReverseInteger.Execute(-123);
+            Console.WriteLine(test);
         }
     }
 }

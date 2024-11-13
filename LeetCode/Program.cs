@@ -6,7 +6,7 @@ namespace LeetCode
     {
         static void Main(string[] args)
         {
-            var test = ReverseInteger.Execute(-123);
+            var test = PalindromeNumber.Execute(12233221);
             Console.WriteLine(test);
         }
     }

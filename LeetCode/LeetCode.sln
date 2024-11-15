@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode", "LeetCode.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestSolutions", "..\TestSolutions\TestSolutions.csproj", "{5B66B302-ABFA-474D-8F27-BB5ACB65A03D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroductionAlgorithms", "..\IntroductionAlgorithms\IntroductionAlgorithms.csproj", "{21613F24-85FE-47EC-9EC6-14B2EDB5890A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B66B302-ABFA-474D-8F27-BB5ACB65A03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B66B302-ABFA-474D-8F27-BB5ACB65A03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B66B302-ABFA-474D-8F27-BB5ACB65A03D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21613F24-85FE-47EC-9EC6-14B2EDB5890A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21613F24-85FE-47EC-9EC6-14B2EDB5890A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21613F24-85FE-47EC-9EC6-14B2EDB5890A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21613F24-85FE-47EC-9EC6-14B2EDB5890A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
